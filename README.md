@@ -1,5 +1,4 @@
-bcomp
-=====
+# BCOMP
 
 Gate Level Simulation of The Basic Computer
 
