@@ -13,9 +13,11 @@ for hardware implementation through various logical ICs e.g. 7400 TTL series or
 4000 CMOS series.
 
 This simulation is complementary to the BASM project: The Basic Computer
-Assembler. Assembled binary output of BASM can be directly loaded into the
-memory of BCOMP and the simulation can show how does the computer really
-operate with the instructions given by assembly language.
+Assembler (http://github.com/nalamat/basm). Assembled binary output of BASM can
+be directly loaded into the memory of BCOMP and the simulation can show how
+does the computer really operate with the instructions given by assembly
+language.
+
 
 ## Web and contact
 
