@@ -1,1 +1,2 @@
 - [ ] Unify all used ICs with a single chip family (either TTL or CMOS)
+- [ ] Speed up loading and simulation of the design if possible
