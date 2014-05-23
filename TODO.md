@@ -1,0 +1,1 @@
+- [ ] Unify all used ICs with a single chip family (either TTL or CMOS)
