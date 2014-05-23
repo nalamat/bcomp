@@ -19,6 +19,18 @@ does the computer really operate with the instructions given by assembly
 language.
 
 
+## Legal note
+
+Hardware documentation in BCOMP describes Open Hardware and is licensed under
+the CERN OHL v1.2. You may redistribute and modify this documentation under
+the terms of the CERN OHL v1.2.
+
+BCOMP is distributed in the hope it will be useful, but WITHOUT ANY EXPRESS
+OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND
+FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN OHL v1.2 for applicable
+conditions. (http://ohwr.org/CERNOHL)
+
+
 ## Web and contact
 
 Visit BCOMP's page at GitHub:
